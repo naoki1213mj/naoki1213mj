@@ -1,9 +1,23 @@
-# Naoki Matsumoto
+<h1 align="center">Naoki Matsumoto</h1>
 
-日本マイクロソフトで **AI App Solution Engineer（プリセールス）** をしています。  
-**Azure / AI / Analytics** を軸に、アプリケーション基盤の設計・技術検証・開発支援に取り組んでいます。
+<p align="center">
+  AI App Solution Engineer / Azure / AI / Analytics
+</p>
 
-![GitHubリポジトリの言語使用割合](https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja)
+<p align="center">
+  日本マイクロソフトで <strong>AI App Solution Engineer（プリセールス）</strong> をしています。<br />
+  <strong>Azure / AI / Analytics</strong> を軸に、アプリケーション基盤の設計・技術検証・開発支援に取り組んでいます。
+</p>
+
+<p align="center">
+  <a href="https://zenn.dev/chips0711">Zenn</a> ·
+  <a href="https://www.linkedin.com/in/naoki-matsumoto-chips/">LinkedIn</a> ·
+  <a href="https://x.com/chipsnack0711">X</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja" alt="GitHubリポジトリの言語使用割合" height="160" />
+</p>
 
 ![GitHubの活動グラフ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark)
 
