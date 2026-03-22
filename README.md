@@ -63,8 +63,8 @@ blog: https://zenn.dev/chips0711
 | ☁️ **Cloud Architecture** | 🤖 **AI / Machine Learning** | 📊 **Data Analytics** |
 |:---:|:---:|:---:|
 | Application design<br>on Azure PaaS | AI & ML solution<br>architecture & delivery | Data platform design<br>& visualization |
-| 🧠 **Generative AI** | 🛠️ **Developer Productivity** | 🏗️ **Microsoft Foundry** |
-| GenAI solution<br>development & integration | GitHub Copilot-driven<br>productivity enhancement | Agent development<br>& platform solutions |
+| 🧠 **Generative AI** | 🛠️ **Developer Productivity** | 🤝 **Solution Architecture** |
+| GenAI solution<br>development & integration | GitHub Copilot-driven<br>productivity enhancement | End-to-end design<br>& delivery of AI solutions |
 
 </div>
 
