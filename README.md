@@ -10,23 +10,23 @@
 </p>
 
 <p align="center">
-  <a href="https://zenn.dev/chips0711">Zenn</a> ·
-  <a href="https://www.linkedin.com/in/naoki-matsumoto-chips/">LinkedIn</a> ·
-  <a href="https://x.com/chipsnack0711">X</a>
+  <a href="https://zenn.dev/chips0711"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
+  <a href="https://www.linkedin.com/in/naoki-matsumoto-chips/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/chipsnack0711"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=ocean_dark" alt="GitHub のコントリビューション活動とリポジトリ統計" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=vision_friendly_dark" alt="GitHub のコントリビューション活動とリポジトリ統計" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naoki1213mj&theme=ocean_dark" alt="リポジトリごとの使用言語" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naoki1213mj&theme=ocean_dark" alt="コミットで多い使用言語" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naoki1213mj&theme=vision_friendly_dark" alt="リポジトリごとの使用言語" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naoki1213mj&theme=vision_friendly_dark" alt="コミットで多い使用言語" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naoki1213mj&theme=ocean_dark" alt="GitHub の統計情報" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naoki1213mj&theme=ocean_dark&utcOffset=9" alt="主な活動時間帯" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naoki1213mj&theme=vision_friendly_dark" alt="GitHub の統計情報" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naoki1213mj&theme=vision_friendly_dark&utcOffset=9" alt="主な活動時間帯" />
 </p>
 
 ## 自己紹介
@@ -45,8 +45,10 @@
 
 ## Tech
 
-- Python
-- TypeScript
-- Bicep
-- Azure
-- GitHub Copilot
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Bicep" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
