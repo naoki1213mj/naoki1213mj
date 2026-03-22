@@ -5,6 +5,12 @@
 
 ![GitHubリポジトリの言語使用割合](https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja)
 
+## 自己紹介
+
+- Azure PaaS / AI & Machine Learning / Analytics / Microsoft Foundry / GitHub Copilot を中心に技術支援
+- 前職では SIer のデータサイエンティストとして、AI 案件や生成 AI ソリューション開発に従事
+- 技術ブログを [Zenn の Microsoft Publication](https://zenn.dev/microsoft) で執筆
+
 ## 専門領域
 
 - Azure PaaS によるアプリケーション設計
@@ -24,7 +30,6 @@
 ## Writing
 
 - [Zenn: chips0711](https://zenn.dev/chips0711)
-- [Microsoft Publication on Zenn](https://zenn.dev/microsoft)
 
 ## Links
 
