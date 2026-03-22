@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja" alt="Most used programming languages in repositories" height="160" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark" alt="GitHub contribution activity graph showing commit patterns and repository statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark" alt="GitHub contribution activity and repository statistics" />
 
 ## 自己紹介
 
