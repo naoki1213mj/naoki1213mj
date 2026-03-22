@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja" alt="GitHubリポジトリの言語使用割合" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja" alt="GitHub言語統計グラフ" height="160" />
 </p>
 
-![GitHubの活動グラフ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark" alt="GitHub活動統計グラフ（コントリビューション履歴）" />
 
 ## 自己紹介
 
