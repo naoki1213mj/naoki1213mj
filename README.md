@@ -23,9 +23,7 @@
 
 </div>
 
-<!-- ===== Divider ===== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===== About Me ===== -->
 
@@ -50,9 +48,7 @@ blog: https://zenn.dev/chips0711
 
 <br clear="right" />
 
-<!-- ===== Divider ===== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===== Expertise ===== -->
 
@@ -68,35 +64,7 @@ blog: https://zenn.dev/chips0711
 
 </div>
 
-<!-- ===== Divider ===== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-<!-- ===== Tech Stack ===== -->
-
-## 🔧 &nbsp;Tech Stack
-
-<div align="center">
-
-#### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript&theme=dark" alt="Languages" />
-
-#### ☁️ Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Cloud" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Bicep" height="48" />
-
-#### 🤖 AI & DevTools
-
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" height="48" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20Foundry-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Foundry" height="48" />
-
-</div>
-
-<!-- ===== Divider ===== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===== GitHub Stats ===== -->
 
@@ -127,9 +95,7 @@ blog: https://zenn.dev/chips0711
 
 </div>
 
-<!-- ===== Divider ===== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
 <!-- ===== Activity Graph ===== -->
 
