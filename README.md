@@ -10,7 +10,7 @@
 ## 自己紹介
 
 - Azure PaaS / AI & Machine Learning / Analytics / Microsoft Foundry / GitHub Copilot を中心に技術支援
-- 前職では SI企業のデータサイエンティストとして、AI 案件や生成 AI ソリューション開発に従事
+- 前職では SI 企業のデータサイエンティストとして、AI 案件や生成 AI ソリューション開発に従事
 - 技術ブログを [Zenn: chips0711](https://zenn.dev/chips0711) で執筆
 
 ## 専門領域
