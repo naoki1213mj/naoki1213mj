@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja" alt="Most used programming languages on GitHub for naoki1213mj" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja" alt="Top Languages" height="160" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark" alt="GitHub contribution activity summary for naoki1213mj" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark" alt="GitHub Activity" />
 
 ## 自己紹介
 
@@ -43,11 +43,8 @@
 - Azure
 - GitHub Copilot
 
-## Writing
-
-- [Zenn: chips0711](https://zenn.dev/chips0711)
-
 ## Links
 
+- [Zenn](https://zenn.dev/chips0711)
 - [LinkedIn](https://www.linkedin.com/in/naoki-matsumoto-chips/)
 - [X / @chipsnack0711](https://x.com/chipsnack0711)
