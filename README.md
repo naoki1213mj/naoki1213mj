@@ -3,7 +3,7 @@
 日本マイクロソフトで **AI App Solution Engineer（プリセールス）** をしています。  
 Azure を中心としたアプリケーション開発基盤や AI 活用をテーマに、技術検証・提案・情報発信に取り組んでいます。
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naoki1213mj&show_icons=true&hide_border=true&count_private=true&locale=ja)](https://github.com/naoki1213mj)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naoki1213mj&show_icons=true&hide_border=true&count_private=true&locale=ja)
 
 ## 自己紹介
 
@@ -29,7 +29,7 @@ Azure を中心としたアプリケーション開発基盤や AI 活用をテ�
 - Azure
 - GitHub Copilot
 
-## Zennの記事リンク
+## Zenn
 
 - [Zenn: chips0711](https://zenn.dev/chips0711)
 - [Microsoft Publication on Zenn](https://zenn.dev/microsoft)
