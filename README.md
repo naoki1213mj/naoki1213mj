@@ -5,6 +5,8 @@
 
 ![GitHubリポジトリの言語使用割合](https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja)
 
+![GitHubの活動グラフ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark)
+
 ## 自己紹介
 
 - Azure PaaS / AI & Machine Learning / Analytics / Microsoft Foundry / GitHub Copilot を中心に技術支援
