@@ -35,15 +35,16 @@
 
 ```yaml
 name: Naoki Matsumoto
-role: AI App Solution Engineer (プリセールス)
-company: 日本マイクロソフト
+role: AI App Solution Engineer
+company: Microsoft Japan Co., Ltd.
 focus:
-  - Azure PaaS / AI & Machine Learning
-  - Analytics / Microsoft Foundry
-  - GitHub Copilot
-previous:
-  - SI企業のデータサイエンティスト
-  - AI 案件 / 生成 AI ソリューション開発
+  - Azure PaaS & Cloud Architecture
+  - AI / ML & Generative AI
+  - Data Analytics & Visualization
+  - Developer Productivity & Tooling
+background:
+  - Data Scientist at System Integrator
+  - AI & GenAI Solution Development
 blog: https://zenn.dev/chips0711
 ```
 
@@ -55,14 +56,15 @@ blog: https://zenn.dev/chips0711
 
 <!-- ===== Expertise ===== -->
 
-## 🎯 &nbsp;専門領域
+## 🎯 &nbsp;Expertise
 
 <div align="center">
 
-| ☁️ Cloud | 🤖 AI / ML | 📊 Analytics | 🛠️ DevTools |
-|:---:|:---:|:---:|:---:|
-| Azure PaaS による<br>アプリケーション設計 | AI / Machine Learning を<br>含むソリューション設計 | データ活用基盤・<br>可視化支援 | GitHub Copilot による<br>開発生産性向上 |
-| | | | Microsoft Foundry を用いた<br>開発支援 |
+| ☁️ **Cloud Architecture** | 🤖 **AI / Machine Learning** | 📊 **Data Analytics** |
+|:---:|:---:|:---:|
+| Application design<br>on Azure PaaS | AI & ML solution<br>architecture & delivery | Data platform design<br>& visualization |
+| 🧠 **Generative AI** | 🛠️ **Developer Productivity** | 🏗️ **Microsoft Foundry** |
+| GenAI solution<br>development & integration | GitHub Copilot-driven<br>productivity enhancement | Agent development<br>& platform solutions |
 
 </div>
 
