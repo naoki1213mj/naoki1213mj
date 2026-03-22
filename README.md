@@ -16,11 +16,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja" alt="使用言語の統計" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=ocean_dark" alt="GitHub のコントリビューション活動とリポジトリ統計" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark" alt="GitHub のコントリビューション活動とリポジトリ統計" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naoki1213mj&theme=ocean_dark" alt="リポジトリごとの使用言語" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naoki1213mj&theme=ocean_dark" alt="コミットで多い使用言語" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naoki1213mj&theme=ocean_dark" alt="GitHub の統計情報" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naoki1213mj&theme=ocean_dark&utcOffset=9" alt="主な活動時間帯" />
 </p>
 
 ## 自己紹介
