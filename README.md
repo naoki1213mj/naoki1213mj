@@ -29,8 +29,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="280" alt="Top Languages" />
-
 ```yaml
 name: Naoki Matsumoto
 role: AI App Solution Engineer
@@ -45,8 +43,6 @@ background:
   - AI & GenAI Solution Development
 blog: https://zenn.dev/chips0711
 ```
-
-<br clear="right" />
 
 ---
 
@@ -81,23 +77,13 @@ blog: https://zenn.dev/chips0711
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoki1213mj&theme=github_dark" width="100%" alt="GitHub Activity" />
-
-</div>
-
-<br />
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naoki1213mj&theme=github_dark" width="32%" alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naoki1213mj&theme=github_dark" width="32%" alt="Most Commit Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naoki1213mj&theme=github_dark&utcOffset=9" width="32%" alt="Productive Time" />
 
 </div>
 
----
-
-<!-- ===== Activity Graph ===== -->
+<br />
 
 <div align="center">
 
