@@ -11,7 +11,6 @@ Azure を中心としたアプリケーション開発基盤や AI 活用をテ�
 - 専門は **Azure PaaS / AI & Machine Learning / Analytics / Microsoft Foundry / GitHub Copilot**
 - 前職では NEC で生成 AI ソリューション開発に従事
 - 技術ブログを [Zenn の Microsoft Publication](https://zenn.dev/microsoft) で執筆
-- 趣味は **漫画** と **競馬**
 
 ## 専門領域
 
