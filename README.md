@@ -1,16 +1,41 @@
-## Hi there 👋
+# Naoki Matsumoto
 
-<!--
-**naoki1213mj/naoki1213mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+日本マイクロソフトで **AI App Solution Engineer（プリセールス）** をしています。  
+Azure を中心としたアプリケーション開発基盤や AI 活用をテーマに、技術検証・提案・情報発信に取り組んでいます。
 
-Here are some ideas to get you started:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naoki1213mj&show_icons=true&hide_border=true&count_private=true&locale=ja)](https://github.com/naoki1213mj)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 自己紹介
+
+- 日本マイクロソフト所属の AI App Solution Engineer（プリセールス）
+- 専門は **Azure PaaS / AI & Machine Learning / Microsoft Foundry / GitHub Copilot**
+- 前職では NEC で生成 AI ソリューション開発に従事
+- 技術ブログを [Zenn の Microsoft Publication](https://zenn.dev/microsoft) で執筆
+- 趣味は **漫画** と **競馬**
+
+## 専門領域
+
+- Azure PaaS を活用したアプリケーション設計・提案
+- AI / Machine Learning を活用したソリューション設計
+- Microsoft Foundry を活用した開発支援
+- GitHub Copilot を活用した開発生産性向上
+- 生成 AI の業務活用・導入支援
+
+## 技術スタック
+
+- Python（uv）
+- Bicep
+- TypeScript
+- Azure
+- GitHub Copilot
+
+## Zennの記事リンク
+
+- [Zenn: chips0711](https://zenn.dev/chips0711)
+- [Microsoft Publication on Zenn](https://zenn.dev/microsoft)
+
+## 連絡先
+
+- [LinkedIn](https://www.linkedin.com/in/naoki-matsumoto-chips/)
+- [X / @chipsnack0711](https://x.com/chipsnack0711)
+- [Zenn](https://zenn.dev/chips0711)
