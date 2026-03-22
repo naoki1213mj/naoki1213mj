@@ -6,6 +6,7 @@
 
 <!-- ===== Typing Animation ===== -->
 
+<!-- Typing text: ☁ Azure × 🤖 AI × 📊 Analytics = ✨ Innovation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%E2%98%81+Azure+%C3%97+%F0%9F%A4%96+AI+%C3%97+%F0%9F%93%8A+Analytics+%3D+%E2%9C%A8+Innovation" alt="Typing SVG" /></a>
 
 <br />
@@ -61,7 +62,7 @@ blog: https://zenn.dev/chips0711
 | ☁️ Cloud | 🤖 AI / ML | 📊 Analytics | 🛠️ DevTools |
 |:---:|:---:|:---:|:---:|
 | Azure PaaS による<br>アプリケーション設計 | AI / Machine Learning を<br>含むソリューション設計 | データ活用基盤・<br>可視化支援 | GitHub Copilot による<br>開発生産性向上 |
-| | | | Microsoft Foundry を<br>用いた開発支援 |
+| | | | Microsoft Foundry を用いた<br>開発支援 |
 
 </div>
 
