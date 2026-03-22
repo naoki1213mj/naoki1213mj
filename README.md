@@ -3,7 +3,7 @@
 日本マイクロソフトで **AI App Solution Engineer（プリセールス）** をしています。  
 **Azure / AI / Analytics** を軸に、アプリケーション基盤の設計・技術検証・開発支援に取り組んでいます。
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja)
+![使用言語の統計](https://github-readme-stats.vercel.app/api/top-langs/?username=naoki1213mj&layout=compact&hide_border=true&locale=ja)
 
 ## 専門領域
 
