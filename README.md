@@ -7,11 +7,11 @@
 
 ## 専門領域
 
-- Azure PaaS を活用したアプリケーション設計
-- AI / Machine Learning を活用したソリューション設計
-- Analytics を活用したデータ活用基盤・可視化支援
-- Microsoft Foundry を活用した開発支援
-- GitHub Copilot を活用した開発生産性向上
+- Azure PaaS によるアプリケーション設計
+- AI / Machine Learning を含むソリューション設計
+- Analytics によるデータ活用基盤・可視化支援
+- Microsoft Foundry を用いた開発支援
+- GitHub Copilot による開発生産性向上
 
 ## Tech
 
@@ -30,4 +30,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/naoki-matsumoto-chips/)
 - [X / @chipsnack0711](https://x.com/chipsnack0711)
-- [Zenn](https://zenn.dev/chips0711)
