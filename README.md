@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0078D4&height=220&section=header&text=Naoki%20Matsumoto&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20App%20Solution%20Engineer%20%7C%20Azure%20%7C%20AI%20%7C%20Analytics&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=%E2%98%81+Azure+%C3%97+%F0%9F%A4%96+AI+%C3%97+%F0%9F%93%8A+Analytics+%3D+%E2%9C%A8+Innovation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Azure+%C3%97+AI+%C3%97+Analytics+%3D+Innovation" alt="Typing SVG" /></a>
 
 <br />
 
@@ -42,21 +42,21 @@ blog: https://zenn.dev/chips0711
 
 ---
 
-## 🎯 &nbsp;Expertise
+## Expertise
 
 <div align="center">
 
-| ☁️ **Cloud Architecture** | 🤖 **AI / Machine Learning** | 📊 **Data Analytics** |
+| **Cloud Architecture** | **AI / Machine Learning** | **Data Analytics** |
 |:---:|:---:|:---:|
 | Application design<br>on Azure PaaS | AI & ML solution<br>architecture & delivery | Microsoft Fabric &<br>data visualization |
-| 🧠 **Generative AI** | 🛠️ **Developer Productivity** | 🤝 **Solution Architecture** |
+| **Generative AI** | **Developer Productivity** | 🤝 **Solution Architecture** |
 | Agent development<br>with Microsoft Foundry | GitHub Copilot-driven<br>productivity enhancement | End-to-end design<br>& delivery of AI solutions |
 
 </div>
 
 ---
 
-## 📈 &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
