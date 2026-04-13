@@ -60,7 +60,7 @@ blog: https://zenn.dev/chips0711
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naoki1213mj&theme=github_dark" width="49%" alt="GitHub Stats Overview" />
+<img src="https://github-readme-stats.vercel.app/api?username=naoki1213mj&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=F0F6FC&ring_color=58A6FF" width="49%" alt="GitHub Stats Overview" />
 <img src="https://streak-stats.demolab.com?user=naoki1213mj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" width="49%" alt="GitHub Streak" />
 
 </div>
